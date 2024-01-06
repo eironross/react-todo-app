@@ -1,5 +1,5 @@
 # React Todo App
 
-## Background
+## Description
 
-Simply react todo app to learn about the useState, useEffect, and components in React. To learn more about the destructuring object, spread operators, short circuit
+Simply react todo app to learn about the useState, useEffect, and components in React. To learn more about the destructuring objects, and spread operators
